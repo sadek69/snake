@@ -1,0 +1,6 @@
+title = "Amore : Snake"   	# The window title (string)
+icon = "images/icon.png"  # Filepath to an image to use as the window's icon (string)
+width = 1024               # The window width (number)
+height = 768              # The window height (number)
+vsync = true              # Enable vertical sync (boolean)
+centered = true           # Center the window in the display
